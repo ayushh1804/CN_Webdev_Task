@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CN_Webdev_Task/static/css/main.94b43e68.css",
+    "main.js": "/CN_Webdev_Task/static/js/main.63d42584.js",
+    "static/media/landing.svg": "/CN_Webdev_Task/static/media/landing.cb12f984b3745a94ad554a4c90a6de0f.svg",
+    "static/media/Group 2.1.svg": "/CN_Webdev_Task/static/media/Group 2.1.25359ebd64b903a86534670a3debe00e.svg",
+    "index.html": "/CN_Webdev_Task/index.html",
+    "static/media/Group 2.2.svg": "/CN_Webdev_Task/static/media/Group 2.2.c3f72e0a5a844839c710de76a58d8461.svg",
+    "static/media/2.svg": "/CN_Webdev_Task/static/media/2.e61bf9da8a729c6404667acbb2575ffa.svg",
+    "static/media/Logos.svg": "/CN_Webdev_Task/static/media/Logos.7f42de07caa0ed4cf17bbe4e6afb8d52.svg",
+    "static/media/4.svg": "/CN_Webdev_Task/static/media/4.96d2ac817726bfb87d2fe78e9ffd7120.svg",
+    "static/media/Ellipse_black.svg": "/CN_Webdev_Task/static/media/Ellipse_black.6008ed684fd3becf2ca83ee3735b168a.svg",
+    "static/media/Ellipse_white.svg": "/CN_Webdev_Task/static/media/Ellipse_white.5339855c4c6da2136b56fa1a66790878.svg",
+    "static/media/Media Person.svg": "/CN_Webdev_Task/static/media/Media Person.8f99643f3357953c760d63e12b7c2009.svg",
+    "static/media/Divider.svg": "/CN_Webdev_Task/static/media/Divider.9b5ebdd2b99ba6f09a43b9e09dd40e53.svg",
+    "main.94b43e68.css.map": "/CN_Webdev_Task/static/css/main.94b43e68.css.map",
+    "main.63d42584.js.map": "/CN_Webdev_Task/static/js/main.63d42584.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94b43e68.css",
+    "static/js/main.63d42584.js"
+  ]
+}
