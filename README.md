@@ -1,6 +1,9 @@
  Hello, all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-This is the project which was given to me for the Coding Ninjas Web Dev Domain Recruitments. I tried to make the website as identical as possible from the figma link provided to me. Time constraint was a big issue, because i planned to add the functionality of Dark Mode to improve the ui and to add a couple of more features.
+<h1>This is the project which was given to me for the Coding Ninjas Web Dev Domain Recruitments. I tried to make the website as identical as possible from the figma link provided to me. Time constraint was a big issue, because i planned to add the functionality of Dark Mode to improve the ui and to add a couple of more features.</h1>
+***
+
+<B>I have used React Js which is a JavaScript library for building user interfaces and Tailwind Css for the styling of the website.</B>
 
 ***
 Here is the link for the project website : https://ayushh1804.github.io/CN_Webdev_Task/
