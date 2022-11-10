@@ -1,3 +1,13 @@
+ Hello, all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
+
+This is the project which was given to me for the Coding Ninjas Web Dev Domain Recruitments. I tried to make the website as identical as possible from the figma link provided to me. Time constraint was a big issue, because i planned to add the functionality of Dark Mode to improve the ui and to add a couple of more features.
+
+***
+Here is the link for the project website : https://ayushh1804.github.io/CN_Webdev_Task/
+***
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
